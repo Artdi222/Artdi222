@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║          🐧  PENGUIN LOGISTICS  —  PERSONNEL FILE  🐧       ║
+║          🐧  PENGUIN LOGISTICS - PERSONNEL FILE  🐧         ║
 ║               "We Deliver. No Questions Asked."              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -27,7 +27,7 @@
 
 ```yaml
 ╭─────────────────────────────────────────╮
-│  PENGUIN LOGISTICS — OPERATOR FILE #204 │
+│  PENGUIN LOGISTICS - OPERATOR FILE #204 │
 ├─────────────────────────────────────────┤
 │  Codename   : Artdi                     │
 │  Division   : Digital Infrastructure    │
@@ -54,9 +54,9 @@
 
 ## 📦 &nbsp; FIELD REPORT
 
-> *Entry logged by: Dispatch Terminal — Lungmen Branch*
+> *Entry logged by: Dispatch Terminal - Lungmen Branch*
 
-Currently on assignment building **EndLife** — an **Arknights: Endfield** database & planning tool for operators in the field. When not on delivery runs, you'll find me mastering the **ElysiaJS + Next.js** type-safe stack, hardening services with **JWT & Middleware**, and pushing the limits of **Modern React (v19)**.
+Currently on assignment building **EndLife**, an **Arknights: Endfield** database & planning tool for operators in the field. When not on delivery runs, you'll find me mastering the **ElysiaJS + Next.js** type-safe stack, hardening services with **JWT & Middleware**, and pushing the limits of **Modern React (v19)**.
 
 Also: yes, I am good at rhythm games. Texas can confirm.
 
@@ -75,7 +75,7 @@ Also: yes, I am good at rhythm games. Texas can confirm.
 
 ---
 
-## 🛠️ &nbsp; OPERATOR LOADOUT — TECH STACK
+## 🛠️ &nbsp; OPERATOR LOADOUT - TECH STACK
 
 *Equipment certified for field operations by PL logistics command*
 
@@ -93,7 +93,7 @@ Also: yes, I am good at rhythm games. Texas can confirm.
 
 ---
 
-## 🚚 &nbsp; ACTIVE OPERATIONS — DELIVERY LOG
+## 🚚 &nbsp; ACTIVE OPERATIONS - DELIVERY LOG
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
@@ -110,14 +110,14 @@ Also: yes, I am good at rhythm games. Texas can confirm.
 <td width="50%" valign="top">
 
 ### 📦 EndLife
-> *Active Build — Penguin Logistics Priority Shipment*
+> *Active Build - Penguin Logistics Priority Shipment*
 
 A comprehensive **Arknights: Endfield** database & operator planner, engineered with the full type-safe stack.
 
 **Stack:** Next.js · ElysiaJS · Bun · PostgreSQL · Supabase
 
-<img src="YOUR_ENDLIFE_SCREENSHOT_URL_HERE" width="100%" style="border-radius:8px;" />
-<!-- 💡 Drop a WIP screenshot or concept art for EndLife here -->
+<img src="./Endlife.png" width="100%" style="border-radius:8px;" />
+
 
 ![Status](https://img.shields.io/badge/Status-In_Transit_🚚-ff6b00?style=flat-square&labelColor=0a0a0a)
 
@@ -160,7 +160,7 @@ A comprehensive **Arknights: Endfield** database & operator planner, engineered 
 
 ---
 
-## 📡 &nbsp; OPEN CHANNEL — CONTACT DISPATCH
+## 📡 &nbsp; OPEN CHANNEL - CONTACT DISPATCH
 
 *Penguin Logistics accepts all transmissions. Encryption optional.*
 
@@ -178,14 +178,13 @@ A comprehensive **Arknights: Endfield** database & operator planner, engineered 
 <div align="center">
 
 <img src="https://embed.pixiv.net/artwork.php?illust_id=133302300&mdate=1753888939" width="100%" style="border-radius:10px;" />
-<!-- 💡 A cool PL group art or a chibi penguin operator works perfectly here -->
 
 <br/><br/>
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║   PENGUIN LOGISTICS — LUNGMEN BRANCH                           ║
-║   "Whether it's code, packages, or chaos — we deliver."        ║
+║   PENGUIN LOGISTICS - LUNGMEN BRANCH                           ║
+║   "Whether it's code, packages, or chaos - we deliver."        ║
 ║                                                                ║
 ║   Operator Artdi  |  Signing off  |  See you next deployment   ║
 ╚════════════════════════════════════════════════════════════════╝
