@@ -248,18 +248,7 @@ A comprehensive **Arknights: Endfield** database & operator planner, engineered 
 
 ## 🎧 &nbsp; COMMS CHANNEL - NOW PLAYING
 
-> *Optional dispatch frequency. Activate once linked to broadcast live listening status.*
-
-<!--
-  Setup (takes ~2 minutes, see chat for full steps):
-  1. Visit https://spotify-github-profile.kittinanx.com/api/login and connect your Spotify account.
-  2. Copy the "uid" value it gives you back.
-  3. Uncomment the line below and replace YOUR_UID with that value.
-
-  [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0a0a0a&bar_color=ff6b00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID)
--->
-
-![Status](https://img.shields.io/badge/Status-Awaiting_Link_🔌-555555?style=flat-square&labelColor=0a0a0a)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314qgmsoh2lafzrluhtjpi3mcide&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
