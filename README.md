@@ -37,33 +37,26 @@
 
 <br/>
 
-
 <table width="100%">
 <tr>
 <td width="58%" valign="top">
 
-```
-╔══════════════════════════════════════════════════╗
-║       PENGUIN LOGISTICS - PERSONNEL FILE         ║
-║               [ OPERATOR #204 ]                  ║
-╠══════════════════════════════════════════════════╣
-║                                                  ║
-║  CODENAME    ╠══►  Artdi                         ║
-║  FACTION     ╠══►  Penguin Logistics (P.L.)      ║
-║  DIVISION    ╠══►  Digital Infrastructure        ║
-║  SPECIALTY   ╠══►  Fullstack Deployment          ║
-║  NODE        ╠══►  Lungmen Territory             ║
-║  AFFILIATION ╠══►  Emperor's Network             ║
-║                                                  ║
-╠══════════════════════════════════════════════════╣
-║  CLEARANCE   ╠══►  ██████████ CERTIFIED          ║
-║  TRUST RANK  ╠══►  ██████████ 200 / 200          ║
-║  FIELD RISK  ╠══►  █████░░░░░ MODERATE           ║
-╠══════════════════════════════════════════════════╣
-║  "I deliver code. Clean, fast, on time.          ║
-║   No returns. No questions asked."               ║
-╚══════════════════════════════════════════════════╝
-```
+**PENGUIN LOGISTICS — PERSONNEL FILE — OPERATOR #204**
+
+| Field | Detail |
+|:---|:---|
+| Codename | Artdi |
+| Faction | Penguin Logistics (P.L.) |
+| Division | Digital Infrastructure |
+| Specialty | Fullstack Deployment |
+| Node | Lungmen Territory |
+| Affiliation | Emperor's Network |
+
+![Clearance](https://img.shields.io/badge/CLEARANCE-CERTIFIED-00e5ff?style=for-the-badge&labelColor=0a0a0a)
+![Trust Rank](https://img.shields.io/badge/TRUST%20RANK-200%2F200-ff6b00?style=for-the-badge&labelColor=0a0a0a)
+![Field Risk](https://img.shields.io/badge/FIELD%20RISK-MODERATE-ffb700?style=for-the-badge&labelColor=0a0a0a)
+
+> *"I deliver code. Clean, fast, on time. No returns. No questions asked."*
 
 </td>
 <td width="42%" align="center" valign="top">
@@ -90,24 +83,20 @@ Currently on assignment building **EndLife** - a full **Arknights: Endfield** da
 
 <br/>
 
-```
-╔════════════════════════════════════════════════════════════╗
-║  P.L. INTERNAL MEMO - FOR AUTHORIZED EYES ONLY             ║
-╠════════════════════════════════════════════════════════════╣
-║  ACTIVE MISSION    →  EndLife (Arknights: Endfield)        ║
-║  PRIMARY STACK     →  ElysiaJS + Next.js (Type-Safe)       ║
-║  REACT EXPERTISE   →  v19 - Deployed faster than           ║
-║                       Exusiai's trigger finger             ║
-║  SECURITY LAYER    →  JWT + Middleware hardening           ║
-║  FIELD SPECIALTY   →  TypeScript / Bun runtime             ║
-║  CLASSIFIED INTEL  →  Rhythm game APM > WPM (fact)         ║
-╚════════════════════════════════════════════════════════════╝
-```
+**P.L. INTERNAL MEMO — FOR AUTHORIZED EYES ONLY**
+
+| Memo Field | Detail |
+|:---|:---|
+| Active Mission | EndLife (Arknights: Endfield) |
+| Primary Stack | ElysiaJS + Next.js (Type-Safe) |
+| React Expertise | v19 — deployed faster than Exusiai's trigger finger |
+| Security Layer | JWT + Middleware hardening |
+| Field Specialty | TypeScript / Bun runtime |
+| Classified Intel | Rhythm game APM > WPM (fact) |
 
 </details>
 
 ---
-
 
 ## 🛠️ &nbsp; OPERATOR LOADOUT - TECH STACK
 
@@ -120,7 +109,7 @@ Currently on assignment building **EndLife** - a full **Arknights: Endfield** da
 
 **Backend & Infrastructure**
 
-[![Backend Skills](https://skillicons.dev/icons?i=bun,nodejs,postgres,supabase,git,postman&theme=dark&perline=6)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=bun,nodejs,postgres,supabase,git,postman,arch&theme=dark&perline=7)](https://skillicons.dev)
 
 </div>
 
@@ -140,20 +129,19 @@ Currently on assignment building **EndLife** - a full **Arknights: Endfield** da
 
 ---
 
-
 ## 🚚 &nbsp; ACTIVE OPERATIONS - DELIVERY LOG
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  P.L. DISPATCH SYSTEM - ACTIVE PACKAGE TRACKER                       ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  PACKAGE #001 - PRIORITY SHIPMENT ████████████████░░░░░░ 78%         ║
-║  Recipient  : Arknights: Endfield Community                          ║
-║  Contents   : Full database + interactive operator planner           ║
-║  Status     : IN TRANSIT - Build phase ongoing                       ║
-║  ETA        : When it ships. Don't rush the courier.                 ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+**P.L. DISPATCH SYSTEM — ACTIVE PACKAGE TRACKER**
+
+| Field | Detail |
+|:---|:---|
+| Package | #001 — Priority Shipment |
+| Recipient | Arknights: Endfield Community |
+| Contents | Full database + interactive operator planner |
+| Status | In Transit — build phase ongoing |
+| ETA | When it ships. Don't rush the courier. |
+
+![Progress](https://img.shields.io/badge/PROGRESS-78%25-ff6b00?style=for-the-badge&labelColor=0a0a0a)
 
 <table width="100%">
 <tr>
@@ -176,15 +164,7 @@ A comprehensive **Arknights: Endfield** database & operator planner, engineered 
 ### 📪 PARCEL SLOT - RESERVED
 > *Next delivery pending...*
 
-```
-╭──────────────────────────────────────╮
-│                                      │
-│   [ PARCEL SLOT AVAILABLE ]          │
-│   Next shipment incoming...          │
-│   Stay tuned, Operator.              │
-│                                      │
-╰──────────────────────────────────────╯
-```
+**Parcel slot available.** Next shipment incoming — stay tuned, Operator.
 
 ![Status](https://img.shields.io/badge/Status-Pending_📪-555555?style=flat-square&labelColor=0a0a0a)
 
@@ -193,7 +173,6 @@ A comprehensive **Arknights: Endfield** database & operator planner, engineered 
 </table>
 
 ---
-
 
 ## 📊 &nbsp; COMBAT RECORD - PERFORMANCE METRICS
 
@@ -205,9 +184,25 @@ A comprehensive **Arknights: Endfield** database & operator planner, engineered 
 
 <br/><br/>
 
+**🏆 Field Commendations**
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Artdi222&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/Artdi222)
+
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Artdi222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff6b00&icon_color=00e5ff&text_color=ffffff&ring_color=ff6b00&border_radius=8" width="48%" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artdi222&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff6b00&text_color=ffffff&border_radius=8&langs_count=8" width="42%" />
+
+<br/><br/>
+
+**🐍 P.L. Delivery Route - Daily Run**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artdi222/Artdi222/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Artdi222/Artdi222/output/github-snake.svg" />
+  <img alt="P.L. Delivery Snake" src="https://raw.githubusercontent.com/Artdi222/Artdi222/output/github-snake.svg" width="92%" />
+</picture>
 
 </div>
 
@@ -221,15 +216,13 @@ A comprehensive **Arknights: Endfield** database & operator planner, engineered 
 
 ---
 
-
 ## 🎴 &nbsp; FIELD GALLERY - VISUAL INTEL
 
 > *P.L. media archive - Lungmen Branch internal records*
 
-
 <table width="100%">
 <tr>
-  
+
 <td width="33%" align="center">
 <img src="https://i.pinimg.com/736x/ce/57/37/ce5737a9674d84d7a943626bb58b7fe7.jpg" width="100%" height="320px"style="border-radius:8px;" /><br/>
 <sub><i>Texas Cellinia</i></sub>
@@ -239,7 +232,7 @@ A comprehensive **Arknights: Endfield** database & operator planner, engineered 
 <img src="https://i.pinimg.com/736x/5f/df/06/5fdf0601fcd6bca8368b0df2ca0615f0.jpg" width="100%" height="320px" style="border-radius:8px;" /><br/>
 <sub><i>Lemuel a.k.a Exusiai</i></sub>
 </td>
-  
+
 <td width="33%" align="center">
 <img src="https://i.pinimg.com/1200x/ee/6b/e0/ee6be0f8246affe659a6e10339d99d32.jpg" width="100%" height="320px" style="border-radius:8px;" /><br/>
 <sub><i>Mostima </i></sub>
@@ -253,6 +246,22 @@ A comprehensive **Arknights: Endfield** database & operator planner, engineered 
 
 ---
 
+## 🎧 &nbsp; COMMS CHANNEL - NOW PLAYING
+
+> *Optional dispatch frequency. Activate once linked to broadcast live listening status.*
+
+<!--
+  Setup (takes ~2 minutes, see chat for full steps):
+  1. Visit https://spotify-github-profile.kittinanx.com/api/login and connect your Spotify account.
+  2. Copy the "uid" value it gives you back.
+  3. Uncomment the line below and replace YOUR_UID with that value.
+
+  [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0a0a0a&bar_color=ff6b00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID)
+-->
+
+![Status](https://img.shields.io/badge/Status-Awaiting_Link_🔌-555555?style=flat-square&labelColor=0a0a0a)
+
+---
 
 ## 📡 &nbsp; OPEN CHANNEL - CONTACT DISPATCH
 
@@ -271,21 +280,16 @@ A comprehensive **Arknights: Endfield** database & operator planner, engineered 
 
 ---
 
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║          PENGUIN LOGISTICS - LUNGMEN BRANCH DISPATCH                 ║
-║                   Est. Terran Year 1093                              ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  "Whether it's code, packages, or chaos - we deliver."               ║
-║  "For many Messengers, getting into trouble equates to failure.      ║
-║   For Penguin Logistics, it's simply part of the job."               ║
-╠══════════════════════════════════════════════════════════════════════╣
-║   Operator Artdi  |  Signing off  |  See you next deployment         ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+**PENGUIN LOGISTICS — LUNGMEN BRANCH DISPATCH**
+*Est. Terran Year 1093*
+
+> "Whether it's code, packages, or chaos — we deliver."
+>
+> "For many Messengers, getting into trouble equates to failure. For Penguin Logistics, it's simply part of the job."
+
+**Operator Artdi**  ·  Signing off  ·  See you next deployment
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,50:1a0800,100:0a0a0a&height=120&section=footer&text=&fontSize=0&reversal=false" width="100%" />
 
