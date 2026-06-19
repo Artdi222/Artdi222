@@ -184,11 +184,13 @@ A comprehensive **Arknights: Endfield** database & operator planner, engineered 
 
 <br/><br/>
 
-**🏆 Field Commendations**
+<p align="center"><b>🏆 Field Commendations</b></p>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Artdi222&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/Artdi222)
+<a href="https://github.com/Artdi222">
+  <img src="https://github-profile-trophy.vercel.app/?username=Artdi222&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies" />
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Artdi222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff6b00&icon_color=00e5ff&text_color=ffffff&ring_color=ff6b00&border_radius=8" width="48%" />
 &nbsp;&nbsp;
@@ -248,7 +250,14 @@ A comprehensive **Arknights: Endfield** database & operator planner, engineered 
 
 ## 🎧 &nbsp; COMMS CHANNEL - NOW PLAYING
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314qgmsoh2lafzrluhtjpi3mcide&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314qgmsoh2lafzrluhtjpi3mcide&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" width="49%" alt="Spotify 1" />
+  </a>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314qgmsoh2lafzrluhtjpi3mcide&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" width="49%" alt="Spotify 2" />
+  </a>
+</div>
 
 ---
 
@@ -278,7 +287,7 @@ A comprehensive **Arknights: Endfield** database & operator planner, engineered 
 >
 > "For many Messengers, getting into trouble equates to failure. For Penguin Logistics, it's simply part of the job."
 
-**Operator Artdi**  ·  Signing off  ·  See you next deployment
+**Operator Artdi** ·  Signing off  ·  See you next deployment
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,50:1a0800,100:0a0a0a&height=120&section=footer&text=&fontSize=0&reversal=false" width="100%" />
 
