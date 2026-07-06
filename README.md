@@ -129,51 +129,6 @@ Currently on assignment building **EndLife** - a full **Arknights: Endfield** da
 
 ---
 
-## 🚚 &nbsp; ACTIVE OPERATIONS - DELIVERY LOG
-
-**P.L. DISPATCH SYSTEM — ACTIVE PACKAGE TRACKER**
-
-| Field | Detail |
-|:---|:---|
-| Package | #001 — Priority Shipment |
-| Recipient | Arknights: Endfield Community |
-| Contents | Full database + interactive operator planner |
-| Status | In Transit — build phase ongoing |
-| ETA | When it ships. Don't rush the courier. |
-
-![Progress](https://img.shields.io/badge/PROGRESS-78%25-ff6b00?style=for-the-badge&labelColor=0a0a0a)
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 📦 EndLife
-> *Priority Shipment - Penguin Logistics Classified*
-
-A comprehensive **Arknights: Endfield** database & operator planner, engineered with the full type-safe stack. No ETAs. No compromises.
-
-**Stack:** `Next.js` · `ElysiaJS` · `Bun` · `PostgreSQL` · `Supabase`
-<img src="./Endlife.png" width="100%" style="border-radius:8px;" />
-
-![Status](https://img.shields.io/badge/Status-In_Transit_🚚-ff6b00?style=flat-square&labelColor=0a0a0a)
-![Stack](https://img.shields.io/badge/Stack-Type_Safe-00e5ff?style=flat-square&labelColor=0a0a0a)
-
-</td>
-<td width="50%" valign="top">
-
-### 📪 PARCEL SLOT - RESERVED
-> *Next delivery pending...*
-
-**Parcel slot available.** Next shipment incoming — stay tuned, Operator.
-
-![Status](https://img.shields.io/badge/Status-Pending_📪-555555?style=flat-square&labelColor=0a0a0a)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 &nbsp; COMBAT RECORD - PERFORMANCE METRICS
 
 <div align="center">
