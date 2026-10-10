@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Artdi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=B9BDE6&center=true&vCenter=true&width=560&height=28&lines=Fullstack+developer;TypeScript+most+days%2C+Go+and+Python+on+the+side;Rhythm+game+enjoyer;Currently+building+Lany" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=900&color=B9BDE6&center=true&vCenter=true&width=760&height=40&lines=Fullstack+developer;TypeScript+most+days%2C+Go+and+Python+on+the+side;Rhythm+game+enjoyer;Currently+building+Lany" alt="typing" />
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 <table align="center">
   <tr>
-    <td width="34%" valign="middle">
+    <td width="28%" valign="middle">
       <img src="assets/side.webp" width="100%" alt="side art" />
     </td>
-    <td width="66%" valign="middle">
-      <h3>Hey there</h3>
+    <td width="72%" valign="middle">
+      <h2>Hey there</h2>
       <p>
         I'm Artdi, a fullstack developer from Indonesia. I like building things end to end,
         from the database all the way to the last pixel of the UI, and I care a lot about
@@ -38,11 +38,11 @@
         music running in the background while doing both.
       </p>
       <p>
-        <b>Main stack</b><br/>
+        <h4>Main stack</h4>
         Next.js, React, Bun, Elysia, PostgreSQL
       </p>
       <p>
-        <b>Right now</b><br/>
+        <h4>Right now</h4>
         Building <a href="https://github.com/Artdi222/Lany">Lany</a>, a rhythm game for the browser
       </p>
     </td>
@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://github.com/Artdi222/Lany">
-    <img src="https://raw.githubusercontent.com/Artdi222/Lany/main/public/background/Menu.png" width="100%" alt="Lany main menu" />
+    <img src="https://raw.githubusercontent.com/Artdi222/Lany/main/public/background/Menu.png" width="80%" alt="Lany main menu" />
   </a>
 </p>
 
@@ -74,12 +74,12 @@
 
 <h2 align="center">Tech stack</h2>
 
-<h4 align="center">Languages</h4>
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,go,php,html,css,bash&theme=dark" />
 </p>
 
-<h4 align="center">Frontend</h4>
+<h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,vite,tailwind,threejs&theme=dark" /><br/>
   <img src="https://img.shields.io/badge/GSAP-262835?style=for-the-badge&logo=greensock&logoColor=88CE02" />
@@ -88,21 +88,21 @@
   <img src="https://img.shields.io/badge/Zustand-262835?style=for-the-badge&logoColor=white" />
 </p>
 
-<h4 align="center">Mobile</h4>
+<h3 align="center">Mobile</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" /><br/>
   <img src="https://img.shields.io/badge/Expo-262835?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-262835?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-<h4 align="center">Backend</h4>
+<h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bun,nodejs,elysia,laravel,fastapi&theme=dark" /><br/>
   <img src="https://img.shields.io/badge/Hono-262835?style=for-the-badge&logo=hono&logoColor=E36002" />
   <img src="https://img.shields.io/badge/Go_WebSocket-262835?style=for-the-badge&logo=go&logoColor=00ADD8" />
 </p>
 
-<h4 align="center">Database and storage</h4>
+<h3 align="center">Database and storage</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite&theme=dark" /><br/>
   <img src="https://img.shields.io/badge/Drizzle_ORM-262835?style=for-the-badge&logo=drizzle&logoColor=C5F74F" />
@@ -110,7 +110,7 @@
   <img src="https://img.shields.io/badge/MinIO-262835?style=for-the-badge&logo=minio&logoColor=C72E49" />
 </p>
 
-<h4 align="center">AI and media</h4>
+<h3 align="center">AI and media</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" /><br/>
   <img src="https://img.shields.io/badge/MediaPipe-262835?style=for-the-badge&logo=google&logoColor=white" />
@@ -118,14 +118,14 @@
   <img src="https://img.shields.io/badge/Live2D-262835?style=for-the-badge&logoColor=white" />
 </p>
 
-<h4 align="center">Testing</h4>
+<h3 align="center">Testing</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vitest&theme=dark" /><br/>
   <img src="https://img.shields.io/badge/Playwright-262835?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
   <img src="https://img.shields.io/badge/pytest-262835?style=for-the-badge&logo=pytest&logoColor=0A9EDC" />
 </p>
 
-<h4 align="center">Tools and platform</h4>
+<h3 align="center">Tools and platform</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vercel,linux,arch,vscode,figma,postman,obsidian&theme=dark" />
 </p>
