@@ -29,10 +29,9 @@
   and listen to way too much music while doing both.
 </p>
 
-<!-- Dua GIF sejajar, rasio sama: 600x340 -->
+<!-- Gambar kedua: rasio 1200x500 -->
 <p align="center">
-  <img src="https://placehold.co/600x340/262835/ecebf2?text=gif+600x340&font=montserrat" width="49%" />
-  <img src="https://placehold.co/600x340/262835/ecebf2?text=gif+600x340&font=montserrat" width="49%" />
+  <img src="https://placehold.co/1200x500/262835/ecebf2?text=about+image+1200x500&font=montserrat" width="100%" />
 </p>
 
 <br/>
@@ -135,23 +134,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Artdi222/Artdi222/output/github-snake.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Artdi222/Artdi222/output/github-snake.svg" width="100%" />
   </picture>
-</p>
-
-<br/>
-
-<h2 align="center">Off the keyboard</h2>
-
-<!-- Tiga foto sejajar, rasio sama: 400x400 -->
-<p align="center">
-  <img src="https://placehold.co/400x400/262835/ecebf2?text=main+game&font=montserrat" width="32%" />
-  <img src="https://placehold.co/400x400/262835/ecebf2?text=best+play&font=montserrat" width="32%" />
-  <img src="https://placehold.co/400x400/262835/ecebf2?text=setup&font=montserrat" width="32%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314qgmsoh2lafzrluhtjpi3mcide&cover_image=true&theme=default&show_offline=false&background_color=14151c&interchange=false&profanity=false&hide_remaster=false&bar_color=b9bde6&bar_color_cover=false" width="60%" alt="Spotify now playing" />
-  </a>
 </p>
 
 <br/>
