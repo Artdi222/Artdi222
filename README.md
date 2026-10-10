@@ -1,249 +1,175 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0800,100:ff6b00&height=200&section=header&text=PENGUIN%20LOGISTICS&fontSize=42&fontColor=ff6b00&fontAlignY=38&desc=OPERATOR%20FILE%20%23204%20%7C%20CERTIFIED%20COURIER%20%7C%20LUNGMEN%20NODE&descSize=13&descAlignY=58&descColor=00e5ff&animation=twinkling&stroke=ff6b00&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14151c,50:262835,100:787ac7&height=200&section=header&text=Artdi&fontSize=56&fontColor=ecebf2&fontAlignY=38&desc=writes%20code%20by%20day%2C%20mashes%20keys%20to%20music%20by%20night&descSize=15&descAlignY=60&descColor=b9bde6&animation=fadeIn" width="100%" />
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=B9BDE6&center=true&vCenter=true&width=640&height=30&lines=hi%2C+I'm+Artdi;fullstack+dev%2C+mostly+TypeScript;currently+building+a+rhythm+game+in+the+browser;my+APM+is+higher+than+my+WPM)](https://git.io/typing-svg)
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=30&lines=🐧+PENGUIN+LOGISTICS+-+LUNGMEN+BRANCH+DISPATCH;📦+We+Deliver.+No+Questions+Asked.;🔐+Clandestine+ops%2C+armed+escorts%2C+intel+trading...;💬+Ask+about+TypeScript+or+why+Bun+runs+faster;🎵+Emperor+himself+would+approve+this+stack.)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/STATUS-ON%20DUTY-ff6b00?style=for-the-badge&labelColor=0a0a0a&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI2ZmNmIwMCIvPjwvc3ZnPg==)
-![Clearance](https://img.shields.io/badge/CLEARANCE-CERTIFIED%20COURIER-00e5ff?style=for-the-badge&labelColor=0a0a0a)
-![Division](https://img.shields.io/badge/DIVISION-DIGITAL%20INFRASTRUCTURE-ff6b00?style=for-the-badge&labelColor=0a0a0a)
-![Runtime](https://img.shields.io/badge/RUNTIME-BUN-f9f9f9?style=for-the-badge&logo=bun&logoColor=black&labelColor=0a0a0a)
-![Visitors](https://komarev.com/ghpvc/?username=Artdi222&color=ff6b00&style=for-the-badge&label=DELIVERIES+MADE)
+![Profile views](https://komarev.com/ghpvc/?username=Artdi222&color=787ac7&style=flat-square&label=profile+views)
+![Combo](https://img.shields.io/badge/combo-still%20going-b9bde6?style=flat-square&labelColor=14151c)
+![Coffee](https://img.shields.io/badge/coffee-required-6a7294?style=flat-square&labelColor=14151c)
 
 </div>
 
 <br/>
 
----
-
-## 🐧 &nbsp; OPERATOR DOSSIER - CLASSIFIED
-
-> *Authorization required. Document sealed by Penguin Logistics Command, Lungmen Branch.*
-> *Unauthorized access is punishable under Article 7 of the P.L. Internal Charter - which nobody has actually read.*
-
 <div align="center">
-<table><tr><td align="center">
-<img src="https://pbs.twimg.com/media/Ei6vgW2UMAEBpAV.jpg" width="100%" style="border-radius:8px;" />
-</td></tr></table>
+<!-- Ganti dengan banner / GIF kamu sendiri (lebar 1200 enak dilihat) -->
+<img src="https://placehold.co/1200x360/14151c/b9bde6?text=banner+gif+goes+here&font=montserrat" width="100%" />
 </div>
 
-<br/>
+## Track 01: Hello
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-**PENGUIN LOGISTICS — PERSONNEL FILE — OPERATOR #204**
+Hey, I'm **Artdi**. I already have a job, so this page isn't a CV. It's just where my side projects live.
 
-| Field | Detail |
-|:---|:---|
-| Codename | Artdi |
-| Faction | Penguin Logistics (P.L.) |
-| Division | Digital Infrastructure |
-| Specialty | Fullstack Deployment |
-| Node | Lungmen Territory |
-| Affiliation | Emperor's Network |
+I write fullstack TypeScript, mostly Next.js on the front and Bun + Elysia on the back. When I'm not coding I'm probably playing rhythm games, getting angry at a 99% accuracy run, and retrying the same map for the twentieth time.
 
-![Clearance](https://img.shields.io/badge/CLEARANCE-CERTIFIED-00e5ff?style=for-the-badge&labelColor=0a0a0a)
-![Trust Rank](https://img.shields.io/badge/TRUST%20RANK-200%2F200-ff6b00?style=for-the-badge&labelColor=0a0a0a)
-![Field Risk](https://img.shields.io/badge/FIELD%20RISK-MODERATE-ffb700?style=for-the-badge&labelColor=0a0a0a)
+Eventually those two hobbies merged and now I'm building one.
 
-> *"I deliver code. Clean, fast, on time. No returns. No questions asked."*
+- Working on **[Lany](https://github.com/Artdi222/Lany)**, a 4K/7K rhythm game that runs in the browser
+- Also tinkering with **EndLife**, a database and planner for Arknights: Endfield
+- Learning whatever makes the game loop faster this week
+- Ask me about TypeScript, audio sync, or why Bun starts so fast
 
 </td>
-<td width="42%" align="center" valign="top">
-<img src="https://i.pinimg.com/736x/a9/52/c6/a952c6dc0d7368acd15617ca1d3b5fae.jpg" width="88%" style="border-radius:12px;" />
+<td width="38%" align="center" valign="top">
+<!-- Ganti dengan avatar / GIF karakter favorit -->
+<img src="https://placehold.co/400x480/262835/ecebf2?text=avatar+or+gif&font=montserrat" width="92%" />
+</td>
+</tr>
+</table>
+
+## Track 02: Loadout
+
+<div align="center">
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css,figma&theme=dark&perline=7)](https://skillicons.dev)
+
+**Backend and tools**
+
+[![Backend](https://skillicons.dev/icons?i=bun,nodejs,postgres,supabase,git,postman,arch&theme=dark&perline=7)](https://skillicons.dev)
+
 <br/>
+
+| Frontend | Backend | Infra and tools |
+|:---|:---|:---|
+| ![Next.js](https://img.shields.io/badge/Next.js-14151c?style=flat-square&logo=next.js&logoColor=white) | ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-262835?style=flat-square) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-262835?style=flat-square&logo=postgresql&logoColor=white) |
+| ![React 19](https://img.shields.io/badge/React_19-262835?style=flat-square&logo=react&logoColor=61DAFB) | ![Bun](https://img.shields.io/badge/Bun-14151c?style=flat-square&logo=bun&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-262835?style=flat-square&logo=supabase&logoColor=3ECF8E) |
+| ![Tailwind 4](https://img.shields.io/badge/Tailwind_4-262835?style=flat-square&logo=tailwindcss&logoColor=06B6D4) | ![JWT](https://img.shields.io/badge/JWT-14151c?style=flat-square&logo=jsonwebtokens&logoColor=white) | ![Git](https://img.shields.io/badge/Git-262835?style=flat-square&logo=git&logoColor=F05033) |
+| ![Framer Motion](https://img.shields.io/badge/Framer_Motion-14151c?style=flat-square&logo=framer&logoColor=white) | ![Eden](https://img.shields.io/badge/Eden_Treaty-262835?style=flat-square) | ![Figma](https://img.shields.io/badge/Figma-262835?style=flat-square&logo=figma&logoColor=F24E1E) |
+| ![Zustand](https://img.shields.io/badge/Zustand-262835?style=flat-square) | ![Node.js](https://img.shields.io/badge/Node.js-262835?style=flat-square&logo=node.js&logoColor=6DA55F) | ![Postman](https://img.shields.io/badge/Postman-262835?style=flat-square&logo=postman&logoColor=FF6C37) |
+| ![PixiJS](https://img.shields.io/badge/PixiJS-262835?style=flat-square) | ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-262835?style=flat-square&logo=drizzle&logoColor=C5F74F) | ![Arch](https://img.shields.io/badge/Arch_Linux-262835?style=flat-square&logo=archlinux&logoColor=1793D1) |
+
+</div>
+
+## Track 03: Now building
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### [Lany](https://github.com/Artdi222/Lany)
+
+A browser rhythm game in the style of osu!mania. Falling notes, hold notes, leaderboards, pp, and a lot of time spent making sure the hit timing matches what you actually hear.
+
+Next.js, PixiJS, Howler, Bun, Elysia, PostgreSQL.
+
+</td>
+<td width="50%" valign="top">
+
+<!-- Screenshot Lany, misalnya Menu.png dari repo Lany -->
+<img src="https://raw.githubusercontent.com/Artdi222/Lany/main/public/background/Menu.png" width="100%" />
 
 </td>
 </tr>
 </table>
 
----
-
-## 📦 &nbsp; FIELD REPORT - DISPATCH LOG
-
-> *Entry logged by: Dispatch Terminal - Lungmen Branch, The Ends of the Earth*
-> *Timestamp: Active. Operator on-site. Coffee: Missing. ETA: Unknown.*
-
-Currently on assignment building **EndLife** - a full **Arknights: Endfield** database & operator planning tool, engineered for operators in the field. Off-duty hours are spent mastering the **ElysiaJS + Next.js** type-safe pipeline, hardening systems with **JWT & Middleware**, and pushing the limits of **React v19**. Rhythm game APM exceeds WPM. Texas can confirm.
-
-> *"For many Messengers, getting into trouble equates to failure. For Penguin Logistics, it's simply part of the job."*
-
-<details>
-<summary><b>⚡ Full Operator Trait File - [ EXPAND DOSSIER ]</b></summary>
-
-<br/>
-
-**P.L. INTERNAL MEMO — FOR AUTHORIZED EYES ONLY**
-
-| Memo Field | Detail |
-|:---|:---|
-| Active Mission | EndLife (Arknights: Endfield) |
-| Primary Stack | ElysiaJS + Next.js (Type-Safe) |
-| React Expertise | v19 — deployed faster than Exusiai's trigger finger |
-| Security Layer | JWT + Middleware hardening |
-| Field Specialty | TypeScript / Bun runtime |
-| Classified Intel | Rhythm game APM > WPM (fact) |
-
-</details>
-
----
-
-## 🛠️ &nbsp; OPERATOR LOADOUT - TECH STACK
-
-> *Equipment certified for field operations by P.L. Logistics Command*
-<div align="center">
-
-**Frontend Arsenal**
-
-[![Frontend Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css,figma&theme=dark&perline=7)](https://skillicons.dev)
-
-**Backend & Infrastructure**
-
-[![Backend Skills](https://skillicons.dev/icons?i=bun,nodejs,postgres,supabase,git,postman,arch&theme=dark&perline=7)](https://skillicons.dev)
-
-</div>
-
-<br/>
+## Track 04: Results screen
 
 <div align="center">
 
-| 🖥️ **Frontend Arsenal** | ⚙️ **Backend Gear** | 🗄️ **Infrastructure** |
-|:---|:---|:---|
-| ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) Next.js | ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-%2338B2AC?style=flat-square) ElysiaJS | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) PostgreSQL |
-| ![React](https://img.shields.io/badge/React_19-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB) React v19 | ![Bun](https://img.shields.io/badge/Bun-black?style=flat-square&logo=bun&logoColor=white) Bun Runtime | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) Supabase |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_4-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white) Tailwind v4 | ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white) JWT Auth | ![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white) Git |
-| ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white) Framer Motion | ![Eden](https://img.shields.io/badge/Eden-Type_Safe-0ea5e9?style=flat-square) Eden Treaty | ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white) Figma |
-| ![Zustand](https://img.shields.io/badge/Zustand-ff6b00?style=flat-square) Zustand | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) Node.js | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) Postman |
-
-</div>
-
----
-
-## 📊 &nbsp; COMBAT RECORD - PERFORMANCE METRICS
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a0800&height=2&section=header" width="100%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Artdi222&theme=tokyonight&hide_border=true&background=0D1117&stroke=ff6b00&ring=ff6b00&fire=ff6b00&currStreakNum=00e5ff&sideNums=ffffff&currStreakLabel=00e5ff&sideLabels=888888&dates=555555" width="92%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Artdi222&hide_border=true&background=14151c&stroke=4f5266&ring=b9bde6&fire=787ac7&currStreakNum=ecebf2&sideNums=ecebf2&currStreakLabel=b9bde6&sideLabels=a3a4bd&dates=72748e" width="92%" />
 
 <br/><br/>
 
-<p align="center"><b>🏆 Field Commendations</b></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Artdi222&show_icons=true&hide_border=true&bg_color=14151c&title_color=b9bde6&icon_color=787ac7&text_color=ecebf2&border_radius=8" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artdi222&layout=compact&hide_border=true&bg_color=14151c&title_color=b9bde6&text_color=ecebf2&border_radius=8&langs_count=8" width="42%" />
+
+<br/><br/>
 
 <a href="https://github.com/Artdi222">
-  <img src="https://github-profile-trophy.vercel.app/?username=Artdi222&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Artdi222&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophies" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Artdi222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff6b00&icon_color=00e5ff&text_color=ffffff&ring_color=ff6b00&border_radius=8" width="48%" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artdi222&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff6b00&text_color=ffffff&border_radius=8&langs_count=8" width="42%" />
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Artdi222&bg_color=14151c&color=b9bde6&line=787ac7&point=ecebf2&area=true&area_color=787ac7&hide_border=true&custom_title=Contribution%20timeline)](https://github.com/Artdi222)
 
-<br/><br/>
+<br/>
 
-**🐍 P.L. Delivery Route - Daily Run**
+**the snake eats my commits so I keep making more**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artdi222/Artdi222/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Artdi222/Artdi222/output/github-snake.svg" />
-  <img alt="P.L. Delivery Snake" src="https://raw.githubusercontent.com/Artdi222/Artdi222/output/github-snake.svg" width="92%" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Artdi222/Artdi222/output/github-snake.svg" width="92%" />
 </picture>
 
 </div>
 
-<br/>
+## Track 05: Off the clock
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Artdi222&bg_color=0d1117&color=00e5ff&line=ff6b00&point=ff6b00&area=true&area_color=ff6b0022&hide_border=true&custom_title=P.L.%20Delivery%20Activity%20-%20Lungmen%20Node)](https://github.com/Artdi222)
-
-</div>
-
----
-
-## 🎴 &nbsp; FIELD GALLERY - VISUAL INTEL
-
-> *P.L. media archive - Lungmen Branch internal records*
+When I'm not at the keyboard for work, I'm at the keyboard for fun.
 
 <table width="100%">
 <tr>
-
 <td width="33%" align="center">
-<img src="https://i.pinimg.com/736x/ce/57/37/ce5737a9674d84d7a943626bb58b7fe7.jpg" width="100%" height="320px"style="border-radius:8px;" /><br/>
-<sub><i>Texas Cellinia</i></sub>
+<!-- Ganti: game rhythm favorit / screenshot skor -->
+<img src="https://placehold.co/400x300/262835/ecebf2?text=rhythm+game+pic&font=montserrat" width="100%" /><br/>
+<sub>favorite rhythm game</sub>
 </td>
-
 <td width="33%" align="center">
-<img src="https://i.pinimg.com/736x/5f/df/06/5fdf0601fcd6bca8368b0df2ca0615f0.jpg" width="100%" height="320px" style="border-radius:8px;" /><br/>
-<sub><i>Lemuel a.k.a Exusiai</i></sub>
+<!-- Ganti: skor terbaik / play yang paling dibanggakan -->
+<img src="https://placehold.co/400x300/262835/ecebf2?text=best+play&font=montserrat" width="100%" /><br/>
+<sub>a run I'm proud of</sub>
 </td>
-
 <td width="33%" align="center">
-<img src="https://i.pinimg.com/1200x/ee/6b/e0/ee6be0f8246affe659a6e10339d99d32.jpg" width="100%" height="320px" style="border-radius:8px;" /><br/>
-<sub><i>Mostima </i></sub>
+<!-- Ganti: setup / keyboard -->
+<img src="https://placehold.co/400x300/262835/ecebf2?text=setup+or+keyboard&font=montserrat" width="100%" /><br/>
+<sub>the setup</sub>
 </td>
+</tr>
 </table>
 
 <div align="center">
-<br/>
-<img src="https://embed.pixiv.net/artwork.php?illust_id=133302300&mdate=1753888939" width="100%" style="border-radius:10px;" />
+
+**What's in the queue**
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314qgmsoh2lafzrluhtjpi3mcide&cover_image=true&theme=default&show_offline=false&background_color=14151c&interchange=false&profanity=false&hide_remaster=false&bar_color=b9bde6&bar_color_cover=false" width="60%" alt="Spotify now playing" />
+</a>
+
 </div>
 
----
-
-## 🎧 &nbsp; COMMS CHANNEL - NOW PLAYING
-
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314qgmsoh2lafzrluhtjpi3mcide&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" width="49%" alt="Spotify 1" />
-  </a>
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314qgmsoh2lafzrluhtjpi3mcide&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" width="49%" alt="Spotify 2" />
-  </a>
-</div>
-
----
-
-## 📡 &nbsp; OPEN CHANNEL - CONTACT DISPATCH
-
-> *Penguin Logistics accepts all transmissions. Encryption optional. Emperor's terms apply.*
+## Track 06: Say hi
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Samam%20Deyta)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/artdi1804)
-[![X / Twitter](https://img.shields.io/badge/X_Twitter-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Artdi279223)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardylagita18@gmail.com)
-
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-262835?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/artdi1804)
+[![X](https://img.shields.io/badge/X-262835?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Artdi279223)
+[![Facebook](https://img.shields.io/badge/Facebook-262835?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/Samam%20Deyta)
+[![Email](https://img.shields.io/badge/Email-262835?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:ardylagita18@gmail.com)
 
 <br/>
 
----
+Thanks for stopping by. Go hit some notes.
 
-<div align="center">
-
-**PENGUIN LOGISTICS — LUNGMEN BRANCH DISPATCH**
-*Est. Terran Year 1093*
-
-> "Whether it's code, packages, or chaos — we deliver."
->
-> "For many Messengers, getting into trouble equates to failure. For Penguin Logistics, it's simply part of the job."
-
-**Operator Artdi** ·  Signing off  ·  See you next deployment
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,50:1a0800,100:0a0a0a&height=120&section=footer&text=&fontSize=0&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:787ac7,50:262835,100:14151c&height=120&section=footer" width="100%" />
 
 </div>
