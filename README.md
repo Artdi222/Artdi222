@@ -1,70 +1,132 @@
-<!-- Hero: ganti dengan GIF anime / gameplay lebar (sekitar 1200x420) -->
-<img src="https://placehold.co/1200x420/14151c/b9bde6?text=hero+gif&font=montserrat" width="100%" />
+<!-- Hero: GIF lebar, rasio 1200x400 -->
+<img src="https://placehold.co/1200x400/14151c/b9bde6?text=hero+gif+1200x400&font=montserrat" width="100%" />
 
-<h1 align="center">hi, I'm Artdi</h1>
+<h1 align="center">Hi, I'm Artdi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=900&color=B9BDE6&center=true&vCenter=true&width=520&height=26&lines=I+write+code+for+a+living;and+play+rhythm+games+for+fun;so+naturally+I'm+building+one" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=B9BDE6&center=true&vCenter=true&width=560&height=28&lines=Fullstack+developer;TypeScript+most+days%2C+Go+and+Python+on+the+side;Rhythm+game+enjoyer;Currently+building+Lany" alt="typing" />
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/artdi1804"><img src="https://cdn.simpleicons.org/instagram/b9bde6" height="22" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Artdi279223"><img src="https://cdn.simpleicons.org/x/b9bde6" height="22" alt="X" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://facebook.com/Samam%20Deyta"><img src="https://cdn.simpleicons.org/facebook/b9bde6" height="22" alt="Facebook" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ardylagita18@gmail.com"><img src="https://cdn.simpleicons.org/gmail/b9bde6" height="22" alt="Email" /></a>
+  <a href="https://instagram.com/artdi1804"><img src="https://cdn.simpleicons.org/instagram/b9bde6" height="24" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Artdi279223"><img src="https://cdn.simpleicons.org/x/b9bde6" height="24" alt="X" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/Samam%20Deyta"><img src="https://cdn.simpleicons.org/facebook/b9bde6" height="24" alt="Facebook" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ardylagita18@gmail.com"><img src="https://cdn.simpleicons.org/gmail/b9bde6" height="24" alt="Email" /></a>
 </p>
 
 <br/>
 
-<img align="right" width="300" src="https://placehold.co/300x380/262835/ecebf2?text=side+gif&font=montserrat" />
+<h2 align="center">About me</h2>
 
-I'm a fullstack developer who already has a job, so this page isn't a CV. It's just my corner of GitHub.
+<p align="center">
+  I'm a fullstack developer from Indonesia who enjoys building things end to end,<br/>
+  from the database all the way to the last pixel of the UI.<br/>
+  I care a lot about apps that feel fast, look clean and are fun to use.
+</p>
 
-Most days I'm in TypeScript, but I'll happily pick up Go, Python or PHP when the problem asks for it. Web, mobile, backend, a bit of computer vision and voice stuff when I'm curious. I like things that feel fast and look clean.
+<p align="center">
+  Outside of code I play rhythm games, chase that last 0.1% of accuracy,<br/>
+  and listen to way too much music while doing both.
+</p>
 
-After work I play rhythm games. Lots of retrying the same chart because 99.4% is not 99.5%. At some point the hobby leaked into the code, which is how Lany happened.
-
-<br clear="right"/>
+<!-- Dua GIF sejajar, rasio sama: 600x340 -->
+<p align="center">
+  <img src="https://placehold.co/600x340/262835/ecebf2?text=gif+600x340&font=montserrat" width="49%" />
+  <img src="https://placehold.co/600x340/262835/ecebf2?text=gif+600x340&font=montserrat" width="49%" />
+</p>
 
 <br/>
 
-<h2 align="center">currently building</h2>
+<h2 align="center">Currently building</h2>
 
 <p align="center">
   <a href="https://github.com/Artdi222/Lany">
-    <img src="https://raw.githubusercontent.com/Artdi222/Lany/main/public/background/Menu.png" width="88%" alt="Lany main menu" />
+    <img src="https://raw.githubusercontent.com/Artdi222/Lany/main/public/background/Menu.png" width="100%" alt="Lany main menu" />
   </a>
 </p>
 
+<h3 align="center"><a href="https://github.com/Artdi222/Lany">Lany</a></h3>
+
 <p align="center">
-  <a href="https://github.com/Artdi222/Lany"><b>Lany</b></a>, a 4K/7K rhythm game that runs in the browser.<br/>
-  <sub>Next.js, PixiJS, Howler, Bun, Elysia and Postgres. Leaderboards, pp, and way too much time spent on audio sync.</sub>
+  A 4K and 7K rhythm game that runs right in your browser.<br/>
+  Falling notes, hold notes, leaderboards and pp, with gameplay timing locked to the audio you actually hear.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,bun,elysia,postgres,tailwind" />
 </p>
 
 <br/>
 
-<h2 align="center">things I work with</h2>
+<h2 align="center">Tech stack</h2>
 
+<h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,go,php,html,css,bash&theme=dark&perline=8" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,vite,tailwind,threejs,figma&theme=dark&perline=8" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=bun,nodejs,laravel,fastapi,postgres,supabase,sqlite,docker&theme=dark&perline=8" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,git,githubactions,linux,arch,postman&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,php,html,css,bash&theme=dark" />
 </p>
 
-<p align="center"><sub>also: Elysia, Hono, Drizzle, Expo, PixiJS, GSAP, pgvector, MediaPipe, Whisper, Vitest, Playwright</sub></p>
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,vite,tailwind,threejs&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/GSAP-262835?style=for-the-badge&logo=greensock&logoColor=88CE02" />
+  <img src="https://img.shields.io/badge/Framer_Motion-262835?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/PixiJS-262835?style=for-the-badge&logo=pixijs&logoColor=E72264" />
+  <img src="https://img.shields.io/badge/Zustand-262835?style=for-the-badge&logoColor=white" />
+</p>
+
+<h4 align="center">Mobile</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/Expo-262835?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-262835?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+<h4 align="center">Backend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,elysia,laravel,fastapi&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/Hono-262835?style=for-the-badge&logo=hono&logoColor=E36002" />
+  <img src="https://img.shields.io/badge/Go_WebSocket-262835?style=for-the-badge&logo=go&logoColor=00ADD8" />
+</p>
+
+<h4 align="center">Database and storage</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-262835?style=for-the-badge&logo=drizzle&logoColor=C5F74F" />
+  <img src="https://img.shields.io/badge/pgvector-262835?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinIO-262835?style=for-the-badge&logo=minio&logoColor=C72E49" />
+</p>
+
+<h4 align="center">AI and media</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/MediaPipe-262835?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whisper-262835?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live2D-262835?style=for-the-badge&logoColor=white" />
+</p>
+
+<h4 align="center">Testing</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vitest&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/Playwright-262835?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
+  <img src="https://img.shields.io/badge/pytest-262835?style=for-the-badge&logo=pytest&logoColor=0A9EDC" />
+</p>
+
+<h4 align="center">Tools and platform</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vercel,linux,arch,vscode,figma,postman,obsidian&theme=dark" />
+</p>
 
 <br/>
 
-<h2 align="center">stats</h2>
+<h2 align="center">GitHub stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artdi222&show_icons=true&hide_border=true&bg_color=14151c&title_color=b9bde6&icon_color=787ac7&text_color=ecebf2&border_radius=10" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artdi222&layout=compact&hide_border=true&bg_color=14151c&title_color=b9bde6&text_color=ecebf2&border_radius=10&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Artdi222&show_icons=true&hide_border=true&bg_color=14151c&title_color=b9bde6&icon_color=787ac7&text_color=ecebf2&border_radius=10&card_width=495" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artdi222&layout=compact&hide_border=true&bg_color=14151c&title_color=b9bde6&text_color=ecebf2&border_radius=10&langs_count=8&card_width=495" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artdi222&hide_border=true&background=14151c&stroke=4f5266&ring=b9bde6&fire=787ac7&currStreakNum=ecebf2&sideNums=ecebf2&currStreakLabel=b9bde6&sideLabels=a3a4bd&dates=72748e&border_radius=10" width="86%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artdi222&hide_border=true&background=14151c&stroke=4f5266&ring=b9bde6&fire=787ac7&currStreakNum=ecebf2&sideNums=ecebf2&currStreakLabel=b9bde6&sideLabels=a3a4bd&dates=72748e&border_radius=10" width="100%" />
 </p>
 
 <p align="center">
@@ -77,13 +139,13 @@ After work I play rhythm games. Lots of retrying the same chart because 99.4% is
 
 <br/>
 
-<h2 align="center">off the clock</h2>
+<h2 align="center">Off the keyboard</h2>
 
-<!-- Tiga foto hobi: game rhythm favorit, play terbaik, setup -->
+<!-- Tiga foto sejajar, rasio sama: 400x400 -->
 <p align="center">
-  <img src="https://placehold.co/300x300/262835/ecebf2?text=main+game&font=montserrat" width="30%" />&nbsp;
-  <img src="https://placehold.co/300x300/262835/ecebf2?text=best+play&font=montserrat" width="30%" />&nbsp;
-  <img src="https://placehold.co/300x300/262835/ecebf2?text=setup&font=montserrat" width="30%" />
+  <img src="https://placehold.co/400x400/262835/ecebf2?text=main+game&font=montserrat" width="32%" />
+  <img src="https://placehold.co/400x400/262835/ecebf2?text=best+play&font=montserrat" width="32%" />
+  <img src="https://placehold.co/400x400/262835/ecebf2?text=setup&font=montserrat" width="32%" />
 </p>
 
 <p align="center">
@@ -97,5 +159,3 @@ After work I play rhythm games. Lots of retrying the same chart because 99.4% is
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Artdi222&color=262835&style=flat-square&label=visitors" />
 </p>
-
-<p align="center"><sub>thanks for stopping by. go hit some notes.</sub></p>
