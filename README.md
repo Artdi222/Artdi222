@@ -1,5 +1,4 @@
-<!-- Hero: GIF lebar, rasio 1200x400 -->
-<img src="https://placehold.co/1200x400/14151c/b9bde6?text=hero+gif+1200x400&font=montserrat" width="100%" />
+<img src="assets/hero.webp" width="100%" alt="banner" />
 
 <h1 align="center">Hi, I'm Artdi</h1>
 
@@ -18,21 +17,37 @@
 
 <h2 align="center">About me</h2>
 
-<p align="center">
-  I'm a fullstack developer from Indonesia who enjoys building things end to end,<br/>
-  from the database all the way to the last pixel of the UI.<br/>
-  I care a lot about apps that feel fast, look clean and are fun to use.
-</p>
-
-<p align="center">
-  Outside of code I play rhythm games, chase that last 0.1% of accuracy,<br/>
-  and listen to way too much music while doing both.
-</p>
-
-<!-- Gambar kedua: rasio 1200x500 -->
-<p align="center">
-  <img src="https://placehold.co/1200x500/262835/ecebf2?text=about+image+1200x500&font=montserrat" width="100%" />
-</p>
+<table align="center">
+  <tr>
+    <td width="34%" valign="middle">
+      <img src="assets/side.webp" width="100%" alt="side art" />
+    </td>
+    <td width="66%" valign="middle">
+      <h3>Hey there</h3>
+      <p>
+        I'm Artdi, a fullstack developer from Indonesia. I like building things end to end,
+        from the database all the way to the last pixel of the UI, and I care a lot about
+        apps that feel fast, look clean and are fun to use.
+      </p>
+      <p>
+        Most of my time goes into TypeScript, with Go and Python whenever a project needs
+        something heavier, like realtime video or a bit of machine learning.
+      </p>
+      <p>
+        Outside of code I play rhythm games, chase that last 0.1% of accuracy, and keep
+        music running in the background while doing both.
+      </p>
+      <p>
+        <b>Main stack</b><br/>
+        Next.js, React, Bun, Elysia, PostgreSQL
+      </p>
+      <p>
+        <b>Right now</b><br/>
+        Building <a href="https://github.com/Artdi222/Lany">Lany</a>, a rhythm game for the browser
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
